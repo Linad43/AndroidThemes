@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AndroidThemes" parent="Base.Theme.AndroidThemes" >
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="colorPrimary">@color/grey</item>
+        <item name="color">@color/white</item>
+        <item name="android:background">@color/black_grey</item>
+
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <color name="black_grey" tools:ignore="MissingDefaultResource">#4D4D4D</color>
+</resources>
